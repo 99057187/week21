@@ -21,6 +21,7 @@
 	}
 	$page = $_SERVER['PHP_SELF'];
 	$sec = "1";
+	echo 15-$time;
 ?>
 <!DOCTYPE html>
 <html>
